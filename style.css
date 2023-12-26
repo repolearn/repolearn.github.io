@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+.display-4 {
+  font-size: 43px;
+}
+
+.lead {
+  font-size: 12px;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
